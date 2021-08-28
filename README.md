@@ -46,7 +46,7 @@
  
 ---
 
-## 🧰 ![immagine](https://user-images.githubusercontent.com/79381105/131199208-75721fd9-b556-4dcc-92c8-be88b51cb7c2.png)『 𝕋𝕠𝕠𝕝𝕓𝕠𝕩 』<img src="https://c.tenor.com/9q01NW8hcEcAAAAi/mokkapresti-monica-presti.gif" width="60px"> 𝓡𝓮𝓪𝓭𝓶𝓮 𝓑𝔂 :::〘❀꙳𓄂𝕀R𝕐N𝔸𓆃꙳❀〙::: <img src="https://c.tenor.com/tLYaLqe-sgEAAAAi/kiss-fist-asl-thank-you.gif" width="50px">     
+## 🧰 ![immagine](https://user-images.githubusercontent.com/79381105/131199208-75721fd9-b556-4dcc-92c8-be88b51cb7c2.png)『 𝕋𝕠𝕠𝕝𝕓𝕠𝕩 』
  
 <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/vscode/vscode-original-wordmark.svg"alt="vscode" width="40" height="40"/>
@@ -70,7 +70,7 @@
  
 ---
 
- 
+<img src="https://c.tenor.com/9q01NW8hcEcAAAAi/mokkapresti-monica-presti.gif" width="60px"> 𝓡𝓮𝓪𝓭𝓶𝓮 𝓑𝔂 :::〘❀꙳𓄂𝕀R𝕐N𝔸𓆃꙳❀〙::: <img src="https://c.tenor.com/tLYaLqe-sgEAAAAi/kiss-fist-asl-thank-you.gif" width="50px">     
 
  
  
