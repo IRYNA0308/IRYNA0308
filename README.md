@@ -68,9 +68,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/php/php-original.svg" alt="php" width="40" height="40"/>
  
+ 
 ---
 
-<img src="https://c.tenor.com/9q01NW8hcEcAAAAi/mokkapresti-monica-presti.gif" width="60px"> 𝓡𝓮𝓪𝓭𝓶𝓮 𝓑𝔂 :::〘❀꙳𓄂𝕀R𝕐N𝔸𓆃꙳❀〙::: <img src="https://c.tenor.com/tLYaLqe-sgEAAAAi/kiss-fist-asl-thank-you.gif" width="50px">     
+<img src="https://c.tenor.com/9q01NW8hcEcAAAAi/mokkapresti-monica-presti.gif" width="60px"> 𝓡𝓮𝓪𝓭𝓶𝓮 𝓑𝔂 :::〘❀꙳𓄂𝕀R𝕐N𝔸𓆃꙳❀〙:::      
 
  
  
