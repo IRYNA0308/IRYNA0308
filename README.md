@@ -17,8 +17,7 @@
 </hr>
 <img align="center" title="Github" alt="Github" width="200px" src="pngegg.png" /> 🔧 🙠༜ 𝕋𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕚𝕖𝕤 & 𝕋𝕠𝕠𝕝𝕤 ༜🙢
 
-</a>
-![Github Stats](https://github-stats-alpha.vercel.app/api/?username=IRYNA0308&tc=333&ic=333)
+</a
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
