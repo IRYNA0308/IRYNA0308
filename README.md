@@ -13,10 +13,10 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/IRYNA0308/PassDdosIry)
 ![GitHub](https://img.shields.io/badge/iryna0308-happycoding-success)
 ![NodePing status](https://img.shields.io/nodeping/status/jkiwn052-ntpp-4lbb-8d45-ihew6d9ucoei?style=plastic&up_color=yellow)
-![Github Stats](https://github-stats-alpha.vercel.app/api/?username=IRYNA0308&tc=333&ic=333)
+
 </hr>
 <img align="center" title="Github" alt="Github" width="200px" src="pngegg.png" /> 🔧 🙠༜ 𝕋𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕚𝕖𝕤 & 𝕋𝕠𝕠𝕝𝕤 ༜🙢
-
+![Github Stats](https://github-stats-alpha.vercel.app/api/?username=IRYNA0308&tc=333&ic=333)
 </a>
 
 
