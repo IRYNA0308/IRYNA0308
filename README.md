@@ -35,7 +35,7 @@
 ### <img src="https://c.tenor.com/ucYo7disu-QAAAAi/mokkapresti-monica-presti.gif" width="60px"> ཱི  𝕤𝔱𝒶tⓤ𝓢 ཱྀ
 
 <a href="https://github.com/IRYNA0308"><img align="left" title="Github" alt="Github" width="200px" src="pngegg(1).png" /></a>
-
+![Github Stats](https://github-stats-alpha.vercel.app/api/?username=IRYNA0308&tc=333&ic=333)
 
 <p align="center"><a href="https://github.com/IRYNA0308">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=IRYNA0308&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
@@ -77,8 +77,6 @@
  
  ![Github Stats](https://github-stats-alpha.vercel.app/api/?username=IRYNA0308&tc=333&ic=333)
 
-<p align="center">
-<a href="https://github.com/IRYNA0308"><img title="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IRYNA0308&layout=compact"></a>
-</p>
+
  
 
