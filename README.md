@@ -75,8 +75,10 @@
  
  
  
- 
+ ![Github Stats](https://github-stats-alpha.vercel.app/api/?username=IRYNA0308&tc=333&ic=333)
 
-
+<p align="center">
+<a href="https://github.com/IRYNA0308"><img title="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IRYNA0308&layout=compact"></a>
+</p>
  
 
