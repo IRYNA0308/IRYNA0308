@@ -70,7 +70,7 @@
  
 ---
 
-<img src="https://c.tenor.com/9q01NW8hcEcAAAAi/mokkapresti-monica-presti.gif" width="60px"> 𝓡𝓮𝓪𝓭𝓶𝓮 𝓑𝔂 <img align="center" title="Github" alt="Github" width="40px" src="pngegg(2).png" /> :::〘❀꙳𓄂𝕀R𝕐N𝔸𓆃꙳❀〙:::
+### 𝓡𝓮𝓪𝓭𝓶𝓮 𝓑𝔂 <img align="center" title="Github" alt="Github" width="40px" src="pngegg(2).png" /> :::〘❀꙳𓄂𝕀R𝕐N𝔸𓆃꙳❀〙:::<img src="https://c.tenor.com/9q01NW8hcEcAAAAi/mokkapresti-monica-presti.gif" width="30px"> 
 
  
  
