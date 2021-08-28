@@ -57,12 +57,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/android/android-plain-wordmark.svg" alt="android" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-original-wordmark.svg"alt="HTML" width="35" height="35"/>
+ ---
+ ---
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>
- 
- ---
- ---
- ## 🧰 ![immagine](https://user-images.githubusercontent.com/79381105/131199208-75721fd9-b556-4dcc-92c8-be88b51cb7c2.png)『 𝕋𝕠𝕠𝕝𝕓𝕠𝕩 』
- 
 <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/debian/debian-original-wordmark.svg" alt="debian" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/django/django-original.svg" alt="django" width="40" height="40"/>
