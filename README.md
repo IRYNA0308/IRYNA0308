@@ -76,9 +76,7 @@
  
  ![Github Stats](https://github-stats-alpha.vercel.app/api/?username=IRYNA0308&tc=333&ic=333)
 
-
- ### Contribution Graph:
-
+ 
 <p align="center">
   <a href="https://github.com/IRYNA0308">
   </a>
