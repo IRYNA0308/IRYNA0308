@@ -77,5 +77,12 @@
  ![Github Stats](https://github-stats-alpha.vercel.app/api/?username=IRYNA0308&tc=333&ic=333)
 
 
- 
+ ### Contribution Graph:
+
+<p align="center">
+  <a href="https://github.com/IRYNA0308">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IRYNA0308#version3"/>
+  </a>
+</p>
+<a href="https://github.com/IRYNA0308"><img alt="Abir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=IRYNA0308&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
