@@ -30,7 +30,8 @@
 ![](https://img.shields.io/badge/Termux-tools-brightgreen?style=flat&logo=Termux&logoColor=white&color=2bbc8a)
  
  
- 
+---
+
 ### <img src="https://c.tenor.com/ucYo7disu-QAAAAi/mokkapresti-monica-presti.gif" width="60px"> ཱི  𝕤𝔱𝒶tⓤ𝓢 ཱྀ
 
 <a href="https://github.com/IRYNA0308"><img align="left" title="Github" alt="Github" width="200px" src="pngegg(1).png" /></a>
@@ -44,6 +45,7 @@
  
 ![Github Stats](https://github-stats-alpha.vercel.app/api/?username=IRYNA0308&tc=333&ic=333)
  
+---
  
 ---
 
