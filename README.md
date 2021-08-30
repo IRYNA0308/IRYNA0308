@@ -7,10 +7,9 @@
 <img src="./ezgif.com-add-text.gif" alt="ezgif.com-add-text.gif" height="300" >
 
 
-
 ![GitHub followers](https://img.shields.io/github/followers/IRYNA0308?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/IRYNA0308?style=social)
-![GitHub top language](https://img.shields.io/github/languages/top/IRYNA0308/PassDdosIry)
+![GitHub top language](https://img.shields.io/github/languages/top/IRYNA0308/IRYNA0308)
 ![GitHub](https://img.shields.io/badge/iryna0308-happycoding-success)
 ![NodePing status](https://img.shields.io/nodeping/status/jkiwn052-ntpp-4lbb-8d45-ihew6d9ucoei?style=plastic&up_color=yellow)
 
