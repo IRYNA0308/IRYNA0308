@@ -69,13 +69,6 @@
  
 ---
 
-<img align="center" title="Github" alt="Github" width="40px" src="pngegg(2).png" /> 𝓡𝓮𝓪𝓭𝓶𝓮 𝓑𝔂 :::〘❀꙳𓄂𝕀R𝕐N𝔸𓆃꙳❀〙:::<img src="https://c.tenor.com/9q01NW8hcEcAAAAi/mokkapresti-monica-presti.gif" width="30px"> 
-
- 
- 
- 
- ![Github Stats](https://github-stats-alpha.vercel.app/api/?username=IRYNA0308&tc=333&ic=333)
-
  
 <p align="center">
   <a href="https://github.com/IRYNA0308">
@@ -83,3 +76,14 @@
 </p>
 <a href="https://github.com/IRYNA0308"><img alt="Abir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=IRYNA0308&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+ 
+ 
+ 
+ 
+<img align="center" title="Github" alt="Github" width="40px" src="pngegg(2).png" /> 𝓡𝓮𝓪𝓭𝓶𝓮 𝓑𝔂 :::〘❀꙳𓄂𝕀R𝕐N𝔸𓆃꙳❀〙:::<img src="https://c.tenor.com/9q01NW8hcEcAAAAi/mokkapresti-monica-presti.gif" width="30px"> 
+
+ 
+ 
+ 
+ ![Github Stats](https://github-stats-alpha.vercel.app/api/?username=IRYNA0308&tc=333&ic=333)
+ 
