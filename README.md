@@ -79,7 +79,8 @@
 </p>
 <a href="https://github.com/IRYNA0308"><img alt="Abir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=IRYNA0308&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
- 
+  
+ <img src="https://metrics.lecoq.io/IRYNA0308?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Europa%2FEuropa">	
  
  
  
