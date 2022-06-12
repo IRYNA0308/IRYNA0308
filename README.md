@@ -4,7 +4,6 @@
 ### <img src="https://c.tenor.com/3z9WAevpMVoAAAAi/cheeks-up.gif" width="60px">🙞 🙨𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝕣𝕖𝕡𝕠𝕤𝕚𝕥𝕠𝕣𝕚𝕖𝕤. 🙨 🙝
 
 </hr>
-<img src="./ezgif.com-add-text.gif" alt="ezgif.com-add-text.gif" height="300" >
 
 
 ![GitHub followers](https://img.shields.io/github/followers/IRYNA0308?style=social)
