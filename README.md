@@ -1,7 +1,7 @@
 
 
 
-### <img src="https://c.tenor.com/3z9WAevpMVoAAAAi/cheeks-up.gif" width="60px">🙞 🙨𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝕣𝕖𝕡𝕠𝕤𝕚𝕥𝕠𝕣𝕚𝕖𝕤. 🙨 🙝
+### <img src="https://c.tenor.com/3z9WAevpMVoAAAAi/cheeks-up.gif" width="60px"> 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝕣𝕖𝕡𝕠𝕤𝕚𝕥𝕠𝕣𝕚𝕖𝕤.
 
 </hr>
 
@@ -16,7 +16,7 @@
 ![Github Stats](https://github-stats-alpha.vercel.app/api/?username=IRYNA0308&tc=333&ic=333)
 ---
 </hr>
-<img align="center" title="Github" alt="Github" width="200px" src="pngegg.png" /> 🔧 🙠༜ 𝕋𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕚𝕖𝕤 & 𝕋𝕠𝕠𝕝𝕤 ༜🙢
+<img align="center" title="Github" alt="Github" width="200px" src="pngegg.png" /> 🔧 𝕋𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕚𝕖𝕤 & 𝕋𝕠𝕠𝕝𝕤
 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -33,7 +33,7 @@
  
 ---
 
-### <img src="https://c.tenor.com/ucYo7disu-QAAAAi/mokkapresti-monica-presti.gif" width="60px"> ཱི  𝕤𝔱𝒶tⓤ𝓢 ཱྀ
+### <img src="https://c.tenor.com/ucYo7disu-QAAAAi/mokkapresti-monica-presti.gif" width="60px">𝕤𝔱𝒶tu𝓢
 
 <a href="https://github.com/IRYNA0308"><img align="left" title="Github" alt="Github" width="200px" src="pngegg(1).png" /></a>
 
